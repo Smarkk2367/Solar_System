@@ -31,3 +31,4 @@ Links:
 - jupiter.jpg: [link](https://commons.wikimedia.org/wiki/File:Solarsystemscope_texture_2k_jupiter.jpg)
 - uranus.jpg: [link](https://commons.wikimedia.org/wiki/File:Solarsystemscope_texture_2k_uranus.jpg)
 - neptune.jpg: [link](https://commons.wikimedia.org/wiki/File:Solarsystemscope_texture_2k_neptune.jpg)
+- sun.jpg: [link](https://commons.wikimedia.org/wiki/File:Solarsystemscope_texture_8k_sun.jpg)

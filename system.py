@@ -20,7 +20,7 @@ scene = canvas(title="Solar System | Press space to pause", width=1900, height=9
 scene.center = vector(0, 0, 0)
 scene.range = 5
 
-sun = sphere(radius=sun_radius, color=color.yellow, emissive=True, shininess=1)
+sun = sphere(radius=sun_radius, texture="textures/sun.jpg", emissive=True, shininess=1)
 
 planets = []
 saturn_rings = []
